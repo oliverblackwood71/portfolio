@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Portfolio favicon</title>
+  <rect width="64" height="64" rx="18" fill="#133738" />
+  <path d="M21 18h17c7.5 0 12 4.2 12 10.7 0 4.7-2.5 8-6.9 9.6L50 46H40.4l-5.5-6.4H29V46H21V18Zm8 6.6v8.8h8.1c3.2 0 4.9-1.5 4.9-4.4 0-2.9-1.8-4.4-5.1-4.4H29Z" fill="#fff"/>
+</svg>

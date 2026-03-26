@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic",
+    "Noto Sans JP", sans-serif;
+  --font-serif: "Yu Mincho", "Hiragino Mincho ProN", "Noto Serif JP", serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background:
+    radial-gradient(circle at top, rgba(231, 223, 206, 0.35), transparent 28%),
+    linear-gradient(180deg, #faf8f4 0%, #f7f3ec 100%);
+}
+
+::selection {
+  background: rgba(120, 113, 108, 0.18);
+}

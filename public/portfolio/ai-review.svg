@@ -1,0 +1,15 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F7F3EC"/>
+  <rect x="94" y="96" width="1012" height="708" rx="32" fill="#FCFAF6" stroke="#E5DDD2"/>
+  <rect x="148" y="166" width="420" height="18" rx="9" fill="#B9A58C"/>
+  <rect x="148" y="214" width="744" height="18" rx="9" fill="#D6CCC0"/>
+  <rect x="148" y="262" width="660" height="18" rx="9" fill="#D6CCC0"/>
+  <rect x="148" y="370" width="320" height="274" rx="26" fill="#ECE3D6"/>
+  <rect x="498" y="370" width="554" height="52" rx="20" fill="#F0E8DD"/>
+  <rect x="498" y="448" width="498" height="16" rx="8" fill="#CDC1B4"/>
+  <rect x="498" y="488" width="474" height="16" rx="8" fill="#CDC1B4"/>
+  <rect x="498" y="568" width="210" height="52" rx="26" fill="#1F1A16"/>
+  <path d="M836 190C836 141.1 864.7 90 915.3 90C932 90 945 94.8 954.6 103.8" stroke="#2F2924" stroke-width="5" stroke-linecap="round"/>
+  <path d="M903.7 66L922.8 94.3L889.7 94.5L903.7 66Z" fill="#2F2924"/>
+  <path d="M957.1 81L962 114.2L935.8 98.3L957.1 81Z" fill="#2F2924"/>
+</svg>

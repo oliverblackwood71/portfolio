@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Bilingual AI Review Writer</title>
+  <desc id="desc">Open Graph image for a bilingual AI and SaaS writing portfolio.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f4f0e8" />
+      <stop offset="100%" stop-color="#ebe3d5" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="68" y="68" width="1064" height="494" rx="36" fill="#ffffff" opacity="0.92" />
+  <rect x="110" y="110" width="96" height="96" rx="28" fill="#133738" />
+  <text x="158" y="173" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">S</text>
+  <text x="110" y="275" font-family="Georgia, serif" font-size="62" font-weight="700" fill="#162124">
+    Bilingual AI Review Writer
+  </text>
+  <text x="110" y="347" font-family="Arial, sans-serif" font-size="30" fill="#425055">
+    Product content for Japanese and English markets
+  </text>
+  <text x="110" y="425" font-family="Arial, sans-serif" font-size="24" fill="#5f676d">
+    AI tool reviews / SaaS reviews / JP-EN product content
+  </text>
+</svg>
