@@ -61,7 +61,7 @@ export const profile = {
     "I create review articles, sponsored content, and practical research-oriented deliverables across AI tools and Python workflows.",
   location: "Japan",
   languages: ["Japanese", "English"],
-  email: "oliverblackwood717@gmail.com",
+  email: "contact@hellosoya.com",
   availability:
     "単発の記事制作から継続運用、Pythonベースの分析支援まで、静かな信頼感を大切にして進めます。",
   pricing: {
